@@ -1,0 +1,164 @@
+Branch,Store_Name,Dec,Nov,Oct,Sep,Aug,Predicted_Jan_Attach_%
+Delhi_Ncr,Delhi(Janakpuri) Br,23.0,17.0,16.0,25.0,24.0,18.0
+Delhi_Ncr,Haryana(Gurgaon) Br,21.0,26.0,15.0,28.0,4.0,28.4
+Delhi_Ncr,Up(Greater Noida) Br,25.0,36.0,30.0,41.0,43.0,22.7
+Pune,Pune(Bhosari) Br,33.0,33.0,36.0,13.0,32.0,36.0
+Gujarat,Ahmedabad(Maninagar) Br,19.0,11.0,14.0,21.0,17.0,14.6
+Pune,Pune(Nagar Road) Br,46.0,35.0,17.0,11.0,21.0,48.2
+Pune,Pune(Chinchwad) Br,29.0,31.0,30.0,17.0,26.0,32.6
+Thane,Bhiwandi Br,44.0,44.0,33.0,21.0,39.0,46.1
+Delhi_Ncr,Up (Noida Sec.18) Br,19.0,22.0,21.0,26.0,21.0,19.4
+Pune,Pune(Baner) Br,26.0,25.0,29.0,19.0,19.0,29.6
+Delhi_Ncr,Delhi(Hauz Khas),63.0,60.0,52.0,80.0,56.0,60.4
+Delhi_Ncr,Delhi(Rohini) Br,31.0,36.0,27.0,9.0,15.0,41.3
+Telangana,Ts(Kondapur),56.0,42.0,13.0,14.0,17.0,60.2
+Delhi_Ncr,Up(Raj Nagar Dc) Br,40.0,41.0,27.0,26.0,16.0,48.9
+Pune,Pune(Station Rd) Br,13.0,21.0,19.0,36.0,14.0,15.5
+Thane,Panvel Br,18.0,18.0,27.0,18.0,22.0,18.2
+Mumbai,Opera House Br,23.0,21.0,20.0,22.0,24.0,21.1
+Delhi_Ncr,Delhi(Daryaganj),39.0,52.0,31.0,39.0,32.0,46.7
+Telangana,Ts(Vivekananda Nagar),31.0,31.0,8.0,0.0,4.0,40.3
+Mumbai,Chakala Andheri Br,18.0,20.0,17.0,17.0,6.0,23.7
+Thane,Ghodbunder Br,31.0,16.0,21.0,14.0,11.0,31.2
+Delhi_Ncr,Haryana(Mewla M.) Br,52.0,40.0,33.0,36.0,15.0,58.6
+Thane,Virar Br,24.0,10.0,16.0,11.0,6.0,23.9
+Delhi_Ncr,Haryana(New Faridabad),36.0,22.0,12.0,0.0,4.0,40.6
+Delhi_Ncr,Delhi(Patel Nagar) Br,46.0,27.0,28.0,18.0,40.0,38.1
+Delhi_Ncr,Delhi(Roop Nagar),17.0,31.0,19.0,22.0,17.0,23.9
+Delhi_Ncr,Delhi(Rajouri Garden) Br,21.0,26.0,25.0,22.0,36.0,18.2
+Delhi_Ncr,Delhi(Kalkaji) Br,39.0,36.0,27.0,11.0,0.0,53.5
+Delhi_Ncr,Delhi(Karol Bagh) Br,43.0,25.0,19.0,41.0,12.0,41.8
+Pune,Pune(Dange Chowk),58.0,70.0,56.0,0.0,0.0,92.6
+Delhi_Ncr,Delhi(Lajpatnagar) Br,18.0,10.0,7.0,9.0,21.0,11.5
+Pune,Pune(Rahatni) Br,23.0,19.0,16.0,22.0,13.0,23.7
+Delhi_Ncr,Delhi(Dwarka) Br,36.0,31.0,28.0,21.0,24.0,38.2
+Mumbai,MAHIM(VS Next),0.0,0.0,0.0,0.0,0.0,0.0
+Delhi_Ncr,Haryana(Faridabad) Br,23.0,25.0,33.0,15.0,8.0,32.8
+Delhi_Ncr,Delhi(Model Town Iii) Br,46.0,26.0,29.0,26.0,29.0,41.4
+Telangana,Ts(Nallakunta),29.0,16.0,10.0,0.0,16.0,26.8
+Thane,Vasai Br,7.0,10.0,7.0,25.0,12.0,4.7
+Delhi_Ncr,Delhi(Paschim Vihar),35.0,27.0,30.0,33.0,34.0,30.6
+Thane,Dombivli Br,21.0,19.0,20.0,43.0,4.0,24.4
+Thane,Mira Road Br,20.0,27.0,28.0,22.0,7.0,30.1
+Gujarat,Surat(Ved Road),29.0,28.0,13.0,8.0,8.0,35.8
+Thane,Kalyan Br,20.0,18.0,13.0,9.0,5.0,24.7
+Gujarat,Ahmedabad(Dev Arc) Br,25.0,18.0,14.0,24.0,20.0,21.4
+Gujarat,Ahmedabad(Bopal),35.0,31.0,16.0,14.0,16.0,38.9
+Delhi_Ncr,Delhi(Vikas Marg) Br,32.0,37.0,40.0,28.0,31.0,36.9
+Pune,Pune(Dhankawadi-Satara Rd),12.0,28.0,20.0,21.0,13.0,20.3
+Thane,Vashi Br,11.0,15.0,11.0,15.0,11.0,12.6
+Telangana,Ts(Jubilee Hills),0.0,15.0,4.0,7.0,14.0,2.0
+Mumbai,Linking Road Br,4.0,42.0,38.0,30.0,31.0,16.4
+Pune,Pune(Kothrud) Br,29.0,30.0,24.0,29.0,37.0,25.3
+Telangana,Ts(Warangal),13.0,3.0,4.0,0.0,0.0,12.7
+Gujarat,Surat(Varachha) Br,20.0,20.0,16.0,18.0,16.0,21.0
+Thane,Palghar,33.0,30.0,25.0,29.0,16.0,37.1
+Mumbai,Andheri Br,39.0,37.0,34.0,43.0,15.0,46.2
+Pune,Pune(S Bapat Rd),54.0,33.0,26.0,29.0,27.0,51.2
+Mumbai,Borivali Br,26.0,31.0,31.0,19.0,8.0,37.4
+Delhi_Ncr,Up(Indirapuram) Br,13.0,24.0,18.0,15.0,3.0,23.3
+Mumbai,Goregaon (W) Br,44.0,26.0,29.0,29.0,17.0,44.3
+Telangana,Ts(Bhel),83.0,23.0,7.0,15.0,17.0,71.0
+Pune,Pune(Satara Rd) Br,6.0,22.0,27.0,45.0,26.0,6.3
+Mumbai,Prabhadevi Br,30.0,28.0,18.0,24.0,19.0,31.6
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,45.0,41.0,32.0,25.0,31.0,48.0
+Delhi_Ncr,Delhi(Shahdara) Br,25.0,25.0,39.0,33.0,38.0,21.8
+Pune,Pune(Kondhawa),48.0,61.0,35.0,35.0,28.0,61.2
+Gujarat,Ahmedabad(Odhav) Br,46.0,6.0,17.0,7.0,10.0,38.5
+Telangana,Ts(Kothapet),25.0,32.0,20.0,8.0,15.0,33.2
+Delhi_Ncr,Delhi(Mahavir Enclave),43.0,28.0,23.0,36.0,20.0,41.4
+Pune,Pune(Hinjewadi) Br,21.0,38.0,27.0,23.0,3.0,37.7
+Pune,Pune(Hadapsar),33.0,62.0,71.0,67.0,60.0,40.9
+Pune,Pune(Solapur Rd) Br,30.0,31.0,19.0,14.0,7.0,39.1
+Delhi_Ncr,Haryana(Jacobpura) Br,27.0,25.0,13.0,22.0,2.0,33.7
+Thane,Belapur Br,4.0,16.0,17.0,29.0,17.0,4.9
+Gujarat,Surat(Bhatar),22.0,4.0,14.0,11.0,12.0,16.5
+Mumbai,Santacruz Br,60.0,24.0,10.0,10.0,1.0,60.6
+Mumbai,Bhandup Br,23.0,18.0,11.0,13.0,11.0,23.9
+Delhi_Ncr,Delhi(Uttam Nagar) Br,29.0,38.0,22.0,11.0,23.0,36.3
+Mumbai,Goregaon (E) Br,11.0,16.0,10.0,25.0,7.0,13.5
+Gujarat,Ahmedabad(Ashram Rd) Br,16.0,6.0,10.0,23.0,13.0,10.3
+Telangana,Ts(Boduppal),22.0,24.0,11.0,4.0,10.0,27.4
+Thane,Nallasopara Br,25.0,8.0,2.0,5.0,3.0,22.7
+Delhi_Ncr,Delhi(Budh Vihar),45.0,44.0,45.0,42.0,19.0,55.2
+Telangana,Ts(Karmanghat),10.0,18.0,16.0,8.0,11.0,15.0
+Delhi_Ncr,Delhi(Nangloi),0.0,31.0,24.0,37.0,30.0,4.6
+Telangana,Ts(Kompally),25.0,24.0,11.0,15.0,2.0,31.9
+Thane,Currey Road,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat,Surat(Mota Varachha),23.0,15.0,14.0,0.0,9.0,25.1
+Mumbai,Chembur Br,6.0,16.0,11.0,17.0,7.0,10.5
+Gujarat,Ahmedabad(Krishna Nagar) Br,23.0,7.0,3.0,28.0,4.0,18.1
+Telangana,Ts(Attapur),29.0,13.0,2.0,11.0,3.0,27.8
+Delhi_Ncr,Delhi(Pitampura) Br,15.0,28.0,19.0,17.0,20.0,20.1
+Delhi_Ncr,Delhi(Narela),75.0,29.0,43.0,0.0,32.0,70.3
+Gujarat,Surat(Rander Rd) Br,30.0,14.0,17.0,21.0,23.0,23.1
+Delhi_Ncr,Delhi(Nawada),5.0,20.0,17.0,33.0,7.0,11.3
+Telangana,Ts(Tolichowki- Aditya Ngr),31.0,17.0,11.0,9.0,21.0,26.2
+Telangana,Ts(Paradise Circle),15.0,22.0,11.0,20.0,18.0,16.0
+Telangana,Ts(Shah Ali Banda),18.0,14.0,11.0,17.0,4.0,20.3
+Gujarat,Ahmedabad(Shahi Baug) Br,32.0,11.0,10.0,18.0,2.0,30.5
+Telangana,Ts(Mehdipatnam),33.0,32.0,0.0,0.0,7.0,39.6
+Gujarat,Surat Br,20.0,15.0,16.0,6.0,5.0,24.1
+Telangana,Ts(Sun City),20.0,36.0,18.0,8.0,0.0,36.8
+Gujarat,Gandhinagar(Sargasan),20.0,2.0,1.0,0.0,3.0,16.0
+Gujarat,Ahmedabad(Chandkheda Rd) Br,7.0,13.0,11.0,5.0,17.0,7.0
+Telangana,Ts(Nagole),13.0,16.0,10.0,11.0,8.0,16.1
+Telangana,Ts(Kukatpally),38.0,13.0,4.0,0.0,0.0,37.7
+Delhi_Ncr,Delhi(Burari),33.0,48.0,28.0,30.0,28.0,41.8
+Mumbai,Malad,27.0,14.0,13.0,11.0,10.0,26.1
+Telangana,Ts(Nacharam),29.0,21.0,7.0,0.0,14.0,29.5
+Thane,Mumbra(Kausa),17.0,11.0,5.0,0.0,6.0,17.7
+Gujarat,Surat(Parvat Patiya),20.0,18.0,23.0,23.0,6.0,24.9
+Telangana,Ts(R C Puram),7.0,18.0,10.0,8.0,17.0,9.0
+Telangana,Ts(Kompally- Golden Plaza),13.0,32.0,14.0,10.0,0.0,28.2
+Mumbai,Ghatkopar(Lbs Marg) Br,9.0,12.0,6.0,0.0,10.0,10.4
+Delhi_Ncr,Delhi(Durgapuri),13.0,38.0,34.0,25.0,29.0,22.1
+Telangana,Ts(Chandrayangutta),18.0,12.0,6.0,10.0,4.0,19.0
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),30.0,27.0,19.0,15.0,26.0,29.4
+Delhi_Ncr,Haryana(M G Road) Br,100.0,7.0,16.0,0.0,3.0,85.5
+Delhi_Ncr,Delhi(Saket) Br,4.0,17.0,17.0,21.0,1.0,12.6
+Thane,Kharghar(Patel Heritage),15.0,20.0,3.0,15.0,5.0,19.1
+Gujarat,Surat(Vip Road-Vesu),0.0,12.0,14.0,13.0,5.0,5.5
+Delhi_Ncr,Up(Gaur Chowk),6.0,5.0,10.0,17.0,17.0,0.8
+Telangana,Ts(Mailardevpally),29.0,31.0,4.0,14.0,4.0,36.5
+Mumbai,Sion Br,13.0,22.0,20.0,38.0,23.0,12.4
+Telangana,Ts(Hastinapur),15.0,24.0,17.0,10.0,16.0,20.0
+Delhi_Ncr,DELHI(KRISHNA NAGAR),0.0,35.0,25.0,25.0,0.0,20.0
+Mumbai,Ghatkopar Br,14.0,23.0,19.0,19.0,4.0,23.0
+Thane,Kalyan(Khadakpada),11.0,22.0,26.0,15.0,17.0,16.7
+Thane,Thane Br,3.0,15.0,25.0,41.0,14.0,5.2
+Telangana,Ap(Tirupathi-M.R.Pally),17.0,9.0,13.0,17.0,7.0,16.2
+Delhi_Ncr,Haryana(Dundahera),10.0,10.0,17.0,20.0,11.0,10.0
+Thane,Badlapur,0.0,17.0,19.0,36.0,14.0,3.1
+Delhi_Ncr,DELHI(ASHOK VIHAR),17.0,15.0,0.0,0.0,0.0,21.1
+Delhi_Ncr,Delhi(Najafgarh),0.0,3.0,6.0,17.0,20.0,0.0
+Telangana,Ts(A.S.Rao Nagar),8.0,19.0,17.0,15.0,0.0,17.8
+Telangana,Ts(Malakpet),14.0,19.0,6.0,5.0,3.0,20.2
+Gujarat,Ahmedabad(Vishala) Br,9.0,12.0,16.0,17.0,8.0,11.5
+Telangana,Ts(Chintalkunta),14.0,9.0,7.0,20.0,4.0,13.5
+Telangana,Ap(Rajahmundry-Jln Road),14.0,5.0,8.0,17.0,0.0,13.6
+Telangana,Ts(Punjagutta),20.0,18.0,5.0,13.0,6.0,22.3
+Telangana,Ap(Vijayawada),0.0,24.0,15.0,0.0,0.0,15.0
+Delhi_Ncr,Haryana(Palam Vihar Rd),7.0,15.0,12.0,6.0,0.0,14.9
+Telangana,Ap(Kakinada),20.0,10.0,5.0,0.0,0.0,22.0
+Telangana,Ts(Wrg-Pochamma Maidan),14.0,3.0,4.0,0.0,0.0,13.5
+Mumbai,Mahim Br,0.0,40.0,15.0,26.0,10.0,16.4
+Delhi_Ncr,DELHI(ROHINI Sector-16),0.0,28.0,7.0,0.0,0.0,15.4
+Mumbai,Infiniti Br,0.0,19.0,12.0,9.0,13.0,5.8
+Pune,Pune(Tilak Rd)Br,0.0,29.0,14.0,8.0,2.0,15.7
+Telangana,Ts(Madinaguda),0.0,20.0,17.0,7.0,12.0,7.9
+Gujarat,Ahmedabad(Rakhial) Br,0.0,23.0,11.0,33.0,0.0,10.4
+Telangana,Ts(Nagaram),0.0,25.0,12.0,10.0,17.0,7.1
+Telangana,Ts(Hayathnagar),0.0,11.0,7.0,0.0,7.0,4.1
+Thane,Ulhasnagar Br,0.0,3.0,8.0,0.0,0.0,3.1
+Gujarat,Ahmedabad(R3Mall) Br,0.0,9.0,21.0,0.0,13.0,3.5
+Mumbai,Boisar Br,0.0,0.0,10.0,0.0,0.0,2.0
+Telangana,Ap(Vizag),0.0,0.0,0.0,17.0,0.0,0.0
+Telangana,Ap(Ntr Circle),0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat,Vadodara(Kareli Baug),20.0,8.0,16.0,12.0,3.0,20.8
+Gujarat,Vadodara(Alkapuri) Br,18.0,13.0,8.0,13.0,12.0,16.4
+Gujarat,Vadodara(Manjalpur) Br,25.0,12.0,15.0,0.0,1.0,28.6
+Thane,Kharghar Br,0.0,0.0,0.0,0.0,0.0,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),0.0,0.0,0.0,0.0,0.0,0.0
+Telangana,Ap(Rajamundry),0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat,Vadodara(Kothi Road),0.0,0.0,0.0,0.0,0.0,0.0
